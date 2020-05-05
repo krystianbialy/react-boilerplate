@@ -1,12 +1,10 @@
 ## General info
 
 React Boilerplate
-https://img.shields.io/github/license/krystianbialy/react-boilerplate
-https://img.shields.io/github/package-json/v/krystianbialy/react-boilerplate
-https://img.shields.io/github/last-commit/krystianbialy/react-boilerplate
-https://img.shields.io/pypi/status/react-boilerplate
-https://img.shields.io/librariesio/github/krystianbialy/react-boilerplate
-https://img.shields.io/bundlephobia/min/react-boilerplate
+![License](https://img.shields.io/github/license/krystianbialy/react-boilerplate.svg)
+![Last commit](https://img.shields.io/github/last-commit/krystianbialy/react-boilerplate.svg)
+![Dependencies](https://img.shields.io/librariesio/github/krystianbialy/react-boilerplate.svg)
+![Minified size](https://img.shields.io/bundlephobia/min/react-boilerplate.svg)
 
 ## Technologies and tools
 
