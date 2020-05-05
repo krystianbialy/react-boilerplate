@@ -1,6 +1,7 @@
 ## General info
 
 React Boilerplate  
+
 ![License](https://img.shields.io/github/license/krystianbialy/react-boilerplate.svg)
 ![Last commit](https://img.shields.io/github/last-commit/krystianbialy/react-boilerplate.svg)
 ![Dev dependencies](https://img.shields.io/david/dev/krystianbialy/react-boilerplate.svg)
