@@ -1,6 +1,6 @@
 ## General info
 
-React Boilerplate  
+React Boilerplate- simple, fast, light.
 
 ![License](https://img.shields.io/github/license/krystianbialy/react-boilerplate.svg)
 ![Last commit](https://img.shields.io/github/last-commit/krystianbialy/react-boilerplate.svg)
