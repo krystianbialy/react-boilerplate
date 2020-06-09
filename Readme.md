@@ -18,7 +18,7 @@ Project is created with:
 - RWD
 - Yarn v1.22.4
 - Webpack v4.38.0
-- ESLint v6.8.0
+- ESLint v7.2.0
 - Prettier v2.0.5
 
 ## Status
